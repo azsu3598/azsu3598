@@ -1,4 +1,5 @@
-### Hi there 👋
+### Git stat
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azsu3598)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **azsu3598/azsu3598** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
